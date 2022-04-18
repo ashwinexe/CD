@@ -1,5 +1,4 @@
 // 1)	Implement  DFA that accept the languages ending with “01” over the characters {0, 1} –
-
 #include <stdio.h>
 #define max 100
 
